@@ -1,0 +1,3 @@
+-[]Daniel Gaytan
+-[]My favorite food are tacos and hamburguers
+-[]My favorite hobbies are programming and learning new stuff about technology
